@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  client.cpp
+d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(78): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  f:\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(87): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  f:\windows kits\10\include\10.0.17134.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(102): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(102): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(106): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: 参见“kbhit”的声明
+d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(180): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\workspace\vs2017project\networkcommunication\client\client\client.cpp(183): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 参见“getch”的声明
+  client.vcxproj -> D:\workspace\vs2017project\NetworkCommunication\client\Debug\client.exe
